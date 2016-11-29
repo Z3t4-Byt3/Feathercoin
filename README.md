@@ -6,5 +6,5 @@ Feathercoin branch 0.9.5
 
 To report bugs or issues used the github issue tracker and specify in the title area the branch and the problem you want to report
 
-Status of 0.9.5 is **beta**
+Status of 0.9.5 is **buggy/unstable**
 
